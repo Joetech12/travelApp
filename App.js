@@ -1,9 +1,14 @@
 import React from 'react';
 import {StyleSheet} from 'react-native';
 import Home from './src/screens/Home';
+import {NavigationContainer} from '@react-navigation/native';
 
 function App() {
-  return <Home />;
+  return (
+    <NavigationContainer>
+      <Home />
+    </NavigationContainer>
+  );
 }
 
 const styles = StyleSheet.create({
