@@ -11,9 +11,9 @@ import React from 'react';
 
 const {width} = Dimensions.get('window');
 
-const AttractionCard = ({imageSrc, title, subtitle, style}) => {
+const AttractionCard = ({imageSrc, title, subtitle, onPress, style}) => {
   return (
-    <View style={[styles.card, style]}>
+    <TouchableOpacity onPress={onPress} style={[styles.card, style]}>
       {/* <Image source={require('../')}/> */}
       <Image style={styles.image} source={{uri: imageSrc}} />
       <Text style={styles.title}>{title}</Text>
@@ -24,7 +24,7 @@ const AttractionCard = ({imageSrc, title, subtitle, style}) => {
         />
         <Text style={styles.subtitle}>{subtitle}</Text>
       </View>
-    </View>
+    </TouchableOpacity>
   );
 };
 
@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
     fontWeight: '500',
     marginTop: 12,
     marginLeft: 6,
+    color: '#000000',
   },
   subtitle: {
     fontSize: 10,

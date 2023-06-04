@@ -10,14 +10,14 @@
     "closing_time": "7:00 PM",
     "categories": ["Most Visited", "Historical"],
     "images": [
-      "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
-      "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
-      "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
-      "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
-      "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
-      "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
-      "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
+      "https://media.istockphoto.com/id/539115110/photo/colosseum-in-rome-and-morning-sun-italy.jpg?s=612x612&w=0&k=20&c=9NtFxHI3P2IBWRY9t0NrfPZPR4iusHmVLbXg2Cjv9Fs=",
+      "https://media.istockphoto.com/id/177303568/photo/coliseum-at-night-in-rome-italy.jpg?s=612x612&w=0&k=20&c=IJn0CQnB2wun7hDJYlDUElXfnz8V0eq0jpvgLOCEIos=",
+      "https://media.istockphoto.com/id/1450607227/photo/aerial-view-of-the-historic-downtown-of-rome-with-coliseum-and-roman-forum-by-night.jpg?s=612x612&w=0&k=20&c=KHrsTSPLvzPcppEA9gGUCt52eaEakzYsiErQM7oWsfE=",
+      "https://media.istockphoto.com/id/514717620/photo/colliseum-in-the-sunset.jpg?s=612x612&w=0&k=20&c=QI4lAZdOBb2yvPjCypU2zv7LtqVTOPdNhEeYh2dzmA0=",
+      "https://media.istockphoto.com/id/1406381665/photo/colosseum-rome-italy.jpg?s=612x612&w=0&k=20&c=86yT9FJ4-_CTPkznOl3nVwhVia4N7lG2JFDvwHVOesE=",
+      "https://media.istockphoto.com/id/1489788358/photo/rome-italy-overlooking-the-roman-forum-and-colosseum.jpg?s=612x612&w=0&k=20&c=JBbK6EIOyTz2--7qnYvohpmfKXtDDvqPRodkgSuYO9Q=",
+      "https://media.istockphoto.com/id/994427542/photo/colosseum-in-rome-and-morning-sun-italy.jpg?s=612x612&w=0&k=20&c=xl5MoDpHgHz9ozyuR4hEpjL7FpYsXHjAVS0odJ4nICI=",
+      "https://media.istockphoto.com/id/1458226597/photo/photographing-the-coliseum-of-rome-with-a-mobile-phone.jpg?s=612x612&w=0&k=20&c=QfelvNobzB-RD3VrYuocAB2ZOa34mGgY_8I6IXj3YYU="
     ],
     "coordinates": {
       "lat": 41.8902,
@@ -66,26 +66,6 @@
     }
   },
   {
-    "id": 4,
-    "name": "Leaning Tower of Pisa",
-    "city": "Pisa",
-    "country": "Italy",
-    "entry_price": "$20",
-    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
-    "opening_time": "9:00 AM",
-    "closing_time": "07:00 PM",
-    "categories": ["Popular"],
-    "images": [
-      "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
-      "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
-      "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
-    ],
-    "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
-    }
-  },
-  {
     "id": 5,
     "name": "Leaning Tower of Pisa",
     "city": "Pisa",
@@ -106,27 +86,7 @@
     }
   },
   {
-    "id": 6,
-    "name": "Leaning Tower of Pisa",
-    "city": "Pisa",
-    "country": "Italy",
-    "entry_price": "$20",
-    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
-    "opening_time": "9:00 AM",
-    "closing_time": "07:00 PM",
-    "categories": ["Popular"],
-    "images": [
-      "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
-      "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
-      "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
-    ],
-    "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
-    }
-  },
-  {
-    "id": 7,
+    "id": 4,
     "name": "Leaning Tower of Pisa",
     "city": "Pisa",
     "country": "Italy",
