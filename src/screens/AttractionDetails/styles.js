@@ -60,7 +60,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'flex-start',
-    marginVertical: 40,
+    marginTop: 20,
+    marginBottom: 20,
   },
   title: {
     color: '#000',
